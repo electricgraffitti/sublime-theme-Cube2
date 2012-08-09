@@ -18,7 +18,7 @@ If you are using Will Bond's excellent [Sublime Package Control](http://wbond.ne
 
 ### Code Font
 
-The code font shown in the RailsCasts is [Inconsolata](http://www.levien.com/type/myfonts/Inconsolata.otf).
+The code font shown in the screenshots is [Inconsolata](http://www.levien.com/type/myfonts/Inconsolata.otf).
 
 ## Release Notes
 
